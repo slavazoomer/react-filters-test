@@ -1,0 +1,23 @@
+{
+  "name": "react-filters-test",
+  "version": "0.0.1",
+  "description": "Just a test package",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://google.com",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "react",
+    "filters",
+    "test"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  }
+}
